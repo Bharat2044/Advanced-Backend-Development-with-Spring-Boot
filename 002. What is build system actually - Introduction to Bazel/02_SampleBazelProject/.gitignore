@@ -1,0 +1,4 @@
+**/bazel-02_samplebazelproject/
+**/bazel-out/
+**/bazel-bin/
+**/bazel-testlogs/
