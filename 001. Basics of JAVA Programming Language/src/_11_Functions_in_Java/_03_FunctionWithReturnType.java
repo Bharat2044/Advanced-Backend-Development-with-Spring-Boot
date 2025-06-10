@@ -1,4 +1,4 @@
-package _11_Functions_in_JAVA;
+package _11_Functions_in_Java;
 
 public class _03_FunctionWithReturnType {
 
