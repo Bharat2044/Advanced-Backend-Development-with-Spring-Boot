@@ -1,4 +1,4 @@
-package _03_Conditionals_in_JAVA;
+package _03_Conditionals_in_Java;
 
 public class _02_IfElseBlock {
 
