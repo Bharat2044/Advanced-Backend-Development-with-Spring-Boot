@@ -1,4 +1,4 @@
-package _02_Scanner_class_and_Operators_in_JAVA;
+package _02_Scanner_class_and_Operators_in_Java;
 
 public class _04_RelationalOperators {
 
