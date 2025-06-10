@@ -1,4 +1,4 @@
-package _12_Arrays_in_JAVA;
+package _12_Arrays_in_Java;
 
 public class _06_ReverseAnArray {
 
