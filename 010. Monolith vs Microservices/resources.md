@@ -1,0 +1,2 @@
+- **Explore Monorepos**
+    - https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
