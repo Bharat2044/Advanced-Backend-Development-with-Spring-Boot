@@ -1,0 +1,3 @@
+-   **ResponseEntity in Spring**
+    -   https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/ResponseEntity.html
+    -   https://www.baeldung.com/spring-response-entity
