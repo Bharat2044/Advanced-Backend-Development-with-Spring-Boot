@@ -33,3 +33,24 @@
 - **@Component VS @Bean**
     - https://stackoverflow.com/questions/10604298/spring-component-versus-bean
     - https://medium.com/@mohammedsafir17/what-is-difference-between-component-and-bean-annotation-in-spring-21e1839f3488
+
+
+- **Repository Pattern in Java: Simplifying Data Access with Abstracted Persistence**
+    - https://java-design-patterns.com/patterns/repository/
+
+
+- **DAO vs Repository Patterns**
+    - https://www.baeldung.com/java-dao-vs-repository
+
+
+- **Design Patterns in the Spring Framework**
+    - https://www.baeldung.com/spring-framework-design-patterns
+
+
+- **How does Spring routing work**
+    - https://stackoverflow.com/questions/59012603/how-does-spring-routing-work-is-there-a-way-to-access-it
+
+
+- **Spring DispatcherServlet**
+    - https://www.baeldung.com/spring-dispatcherservlet
+    - https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-servlet.html
