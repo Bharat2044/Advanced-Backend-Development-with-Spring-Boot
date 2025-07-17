@@ -15,3 +15,8 @@
 - **RestTemplate in Spring**
     - https://www.baeldung.com/rest-template
     - https://medium.com/@psdevraye/understanding-resttemplate-in-java-spring-when-and-how-to-use-it-79500987a53c
+
+
+- **Adapter Design Pattern in Java**
+    - https://www.digitalocean.com/community/tutorials/adapter-design-pattern-java
+    - https://refactoring.guru/design-patterns/adapter
