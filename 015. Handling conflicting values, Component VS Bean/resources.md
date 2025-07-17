@@ -20,3 +20,16 @@
 - **Adapter Design Pattern in Java**
     - https://www.digitalocean.com/community/tutorials/adapter-design-pattern-java
     - https://refactoring.guru/design-patterns/adapter
+
+
+- **Spring @Component Annotation**
+    - https://www.baeldung.com/spring-component-annotation
+    
+
+- **What Is a Spring Bean?**
+    - https://www.baeldung.com/spring-bean
+
+
+- **@Component VS @Bean**
+    - https://stackoverflow.com/questions/10604298/spring-component-versus-bean
+    - https://medium.com/@mohammedsafir17/what-is-difference-between-component-and-bean-annotation-in-spring-21e1839f3488
